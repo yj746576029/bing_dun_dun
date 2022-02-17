@@ -1,8 +1,8 @@
 # bingdundun
 
 ### 介绍
-- index.html是用web前端画的一个冰墩墩，双击即可直接用浏览器打开看效果。
-- python-bingdundun.zip是python版，解压后双击运行run.bat,但前提是你需要安装了python环境（1下载安装python；2配置环境变量；），具体自行百度。
+- bdd.html 是用web前端css画的一个冰墩墩，没有一笔一笔画的动画效果，双击即可直接用浏览器打开看效果。
+- bdd.py 是python版,有一笔一笔画的动画效果，但不能直接运行，需要安装python运行环境，请自行下载安装，下载链接：[python2.7.18](https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi)
 
 ### 社交平台
 - 博客：[技术羊的博客](http://www.jishuyang.com)
